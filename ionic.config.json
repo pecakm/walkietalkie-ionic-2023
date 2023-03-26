@@ -1,0 +1,7 @@
+{
+  "name": "WalkieTalkie",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
