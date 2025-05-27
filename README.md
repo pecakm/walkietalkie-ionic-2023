@@ -4,6 +4,8 @@ Small prototype for Walkie Talkie project.
 
 This project was made with Ionic/React in 2023.
 
+Copyright 2023 IT Pulse Mikołaj Pęcak. All rights reserved.
+
 ## Getting started
 
 To run the project:
